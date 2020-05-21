@@ -1,6 +1,6 @@
 # mybook
 
-A new Flutter project.
+This is a flutter project to create a platform for connecting the buyers and seller. Seller can post their unused book via which buyer contact them.
 
 ## Getting Started
 
