@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454325756339",
+    "firebase_url": "https://merobook-70af0.firebaseio.com",
+    "project_id": "merobook-70af0",
+    "storage_bucket": "merobook-70af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454325756339:android:c352aa89f6a7d1e7aeebc6",
+        "android_client_info": {
+          "package_name": "com.example.mybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454325756339-ijsjqeora94tne9eu85oh4i3m617vbp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mybook",
+            "certificate_hash": "b3df360d011dc96ccb3907990219c5b0ea927d3b"
+          }
+        },
+        {
+          "client_id": "454325756339-n4tcd4t9a9k162gp0bo2ft3qfq37adku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-S4_V4iM4YujdgxdSzD1ovbLNj42Vhd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454325756339-n4tcd4t9a9k162gp0bo2ft3qfq37adku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
